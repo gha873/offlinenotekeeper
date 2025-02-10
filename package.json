@@ -17,7 +17,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YourGitHubUsername/offline-note-keeper-app.git"
+    "url": "git+https://github.com/gha873/offlinenotekeeper"
   },
   "bugs": {
     "url": "https://github.com/YourGitHubUsername/offline-note-keeper-app/issues"
