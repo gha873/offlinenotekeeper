@@ -20,9 +20,9 @@
     "url": "git+https://github.com/gha873/offlinenotekeeper"
   },
   "bugs": {
-    "url": "https://github.com/YourGitHubUsername/offline-note-keeper-app/issues"
+    "url": "https://github.com/gha873/offlinenotekeepe/issues"
   },
-  "homepage": "https://github.com/YourGitHubUsername/offline-note-keeper-app#readme",
+  "homepage": "https://github.com/gha873/offlinenotekeepep",
   "devDependencies": {
     "express": "^4.21.2",
     "http-server": "^14.1.1"

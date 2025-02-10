@@ -54,4 +54,4 @@ Built with ❤️ using HTML, CSS, JavaScript, and [Bootstrap](https://getbootst
 
 ---
 
-**[Ghazanfar Ali / gha873]** - (https://github.com/gha873/offlinenotekeeper)
+**[Ghazanfar Ali / gha873]** - (https://github.com/gha873)
